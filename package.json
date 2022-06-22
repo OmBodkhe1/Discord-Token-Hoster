@@ -1,0 +1,25 @@
+{
+  "name": "discord-token-hoster",
+  "version": "1.0.0",
+  "description": "Simple discord token hoster! Made with ❤️ by Oᴍ !!!#9649",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "legend.js": "^11.8.7",
+    "ombodkhe": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord-bot",
+    "discord",
+    "discord-auth",
+    "discord-bot-adder",
+    "discord-bots"
+  ],
+  "author": "Om Bodkhe",
+  "license": "ISC"
+}

@@ -12,7 +12,7 @@ Simple discord token hoster! Made with ❤️ by Oᴍ !!!#9649
 * add tokens in **tokens.txt** file!
 * run **install.bat** to install all packages!
 * run **start.bat** to start token joiner!
-* Enjoy!!
+* Enjoy!!!
 
 <br>
 

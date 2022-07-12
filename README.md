@@ -10,8 +10,8 @@ Simple discord token hoster! Made with ❤️ by Oᴍ !!!#9649
 
 ## How to use
 * add tokens in **tokens.txt** file!
-* run **install.bat** to install all packages!
-* run **start.bat** to start token joiner!
+* open cmd prompt and run `npm i`
+* then run `node index.js`
 * Enjoy!!!
 
 <br>
